@@ -1,0 +1,108 @@
+term_fr,term_ar
+algorithme,خوارزمية
+variable,متغير
+fonction,دالة
+méthode,دالة
+classe,صنف
+objet,كائن
+héritage,وراثة
+polymorphisme,تعدد الأشكال
+encapsulation,تغليف
+abstraction,تجريد
+programme,برنامج
+code source,شفرة المصدر
+compilation,ترجمة برمجية
+exécution,تنفيذ
+débogage,تنقيح الأخطاء
+bibliothèque,مكتبة برمجية
+framework,إطار عمل
+module,وحدة برمجية
+paquet,حزمة
+dépendance,اعتمادية
+structure de données,هيكل بيانات
+tableau,مصفوفة
+liste,قائمة
+pile,مكدس
+file,طابور
+arbre,شجرة
+graphe,رسم بياني
+base de données,قاعدة بيانات
+table,جدول
+enregistrement,سجل
+champ,حقل
+clé primaire,مفتاح أساسي
+clé étrangère,مفتاح خارجي
+index,فهرس
+requête,استعلام
+transaction,معاملة
+vue,عرض
+jointure,ربط
+normalisation,تطبيع
+serveur,خادم
+client,عميل
+réseau,شبكة
+adresse IP,عنوان IP
+protocole,بروتوكول
+routeur,موجه
+commutateur,مبدل
+pare-feu,جدار ناري
+paquet réseau,حزمة بيانات
+bande passante,عرض النطاق
+latence,زمن الاستجابة
+internet,الإنترنت
+site web,موقع ويب
+page web,صفحة ويب
+navigateur,متصفح
+serveur web,خادم ويب
+requête HTTP,طلب HTTP
+réponse HTTP,استجابة HTTP
+API,واجهة برمجة التطبيقات
+endpoint,نقطة نهاية
+JSON,تنسيق JSON
+XML,تنسيق XML
+interface utilisateur,واجهة المستخدم
+frontend,الواجهة الأمامية
+backend,الواجهة الخلفية
+session,جلسة
+cookie,ملف تعريف الارتباط
+stockage local,تخزين محلي
+système d'exploitation,نظام تشغيل
+processus,عملية
+thread,خيط تنفيذ
+mémoire,ذاكرة
+mémoire cache,ذاكرة مؤقتة
+stockage,تخزين
+système de fichiers,نظام ملفات
+virtualisation,افتراضية
+machine virtuelle,آلة افتراضية
+conteneur,حاوية
+microservice,خدمة مصغرة
+cluster,عنقود
+équilibrage de charge,موازنة الحمل
+cloud computing,حوسبة سحابية
+stockage cloud,تخزين سحابي
+déploiement,نشر
+scalabilité,قابلية التوسع
+sécurité informatique,أمن المعلومات
+chiffrement,تشفير
+mot de passe,كلمة مرور
+authentification,مصادقة
+autorisation,تفويض
+attaque,هجوم
+phishing,تصيد احتيالي
+malware,برمجيات خبيثة
+certificat numérique,شهادة رقمية
+version control,التحكم في الإصدارات
+dépôt git,مستودع Git
+branche,فرع
+fusion,دمج
+commit,تثبيت تغييرات
+test unitaire,اختبار وحدة
+test d'intégration,اختبار تكامل
+architecture logicielle,معمارية البرمجيات
+CDN,شبكة توزيع المحتوى
+contenu,محتوى
+serveur,خادم
+serveurs,خوادم
+réseau de diffusion de contenu,شبكة توزيع المحتوى
+distribution,توزيع

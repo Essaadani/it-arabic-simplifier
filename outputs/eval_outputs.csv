@@ -1,0 +1,361 @@
+﻿id,topic,prompt,reference_simplified,base_raw_output,fine_tuned_raw_output
+1,Object-Oriented Programming,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- classe = صنف
+- objet = كائن
+- méthode = دالة
+- attribut = خاصية
+
+Text:
+Une classe définit les propriétés et les méthodes qu’un objet peut posséder.",في البرمجة كائنية التوجه يحدد الصنف الخصائص والدوال التي يمكن أن يملكها الكائن.,"==========
+أحد الصنف يحدد الخصائص والدلالات التي يمكن أن تمتلكها الكائن.
+==========
+Prompt: 112 tokens, 562.014 tokens-per-sec
+Generation: 26 tokens, 30.989 tokens-per-sec
+Peak memory: 3.223 GB","==========
+الصنف يحدد الخصائص والعمليات التي يمكن أن يمتلكها الكائن.
+==========
+Prompt: 112 tokens, 411.526 tokens-per-sec
+Generation: 24 tokens, 27.430 tokens-per-sec
+Peak memory: 3.368 GB"
+2,Object-Oriented Programming,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- héritage = وراثة
+- classe = صنف
+- méthode = دالة
+
+Text:
+L’héritage permet à une classe de réutiliser les propriétés et les méthodes d’une autre classe.",الوراثة تسمح لصنف جديد بإعادة استخدام الخصائص والدوال الموجودة في صنف آخر.,"==========
+الهندسة تسمح بجمع معرفة وخبرات سابقة في تطوير البرامج. في حالة البناء، يمكن للنموذج استكشاف وتحليل البيانات وتقديم نتائج.
+==========
+Prompt: 114 tokens, 604.795 tokens-per-sec
+Generation: 49 tokens, 29.316 tokens-per-sec
+Peak memory: 3.226 GB","==========
+الوراثة تسمح باستخدام الخصائص والطرق الموجودة في ورقة أخرى داخل ورقة جديدة.
+==========
+Prompt: 114 tokens, 486.896 tokens-per-sec
+Generation: 29 tokens, 26.748 tokens-per-sec
+Peak memory: 3.375 GB"
+3,Object-Oriented Programming,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- encapsulation = تغليف
+- classe = صنف
+- données = بيانات
+
+Text:
+L’encapsulation permet de protéger les données d’un objet en limitant l’accès direct à ses attributs.",التغليف يحمي بيانات الكائن عبر منع الوصول المباشر إلى خصائصه.,"==========
+تغليف يسمح بحماية بيانات الـ ""صنف"" من الوصول المباشر إلى عناصره.
+==========
+Prompt: 111 tokens, 569.431 tokens-per-sec
+Generation: 25 tokens, 30.490 tokens-per-sec
+Peak memory: 3.222 GB","==========
+التغليف يسمح بحماية بيانات البايت عن طريق تقييد الوصول إلى مكوناتها.
+==========
+Prompt: 111 tokens, 412.998 tokens-per-sec
+Generation: 24 tokens, 27.880 tokens-per-sec
+Peak memory: 3.370 GB"
+4,Algorithms,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- algorithme = خوارزمية
+
+Text:
+Un algorithme est une suite d’instructions permettant de résoudre un problème étape par étape.",الخوارزمية هي مجموعة تعليمات مرتبة لحل مشكلة خطوة بخطوة.,"==========
+الخوارزمية هي خطوات تُتبع لحل مشكلة بخطوة بخطوة.
+==========
+Prompt: 97 tokens, 532.223 tokens-per-sec
+Generation: 24 tokens, 31.362 tokens-per-sec
+Peak memory: 3.218 GB","==========
+الخوارزمية هي خطوات تحليلية تساعد على حل المشكلة بخطوة بخطوة.
+==========
+Prompt: 97 tokens, 506.789 tokens-per-sec
+Generation: 25 tokens, 28.188 tokens-per-sec
+Peak memory: 3.340 GB"
+5,Databases,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- base de données = قاعدة بيانات
+- données = بيانات
+
+Text:
+Une base de données est un système utilisé pour stocker et organiser des données.",قاعدة البيانات نظام يُستخدم لتخزين البيانات وتنظيمها.,"==========
+قاعدة البيانات هي نظام يستخدم لتخزين وتنظيم البيانات.
+==========
+Prompt: 96 tokens, 553.439 tokens-per-sec
+Generation: 14 tokens, 32.577 tokens-per-sec
+Peak memory: 3.217 GB","==========
+قاعدة بيانات هي نظام يستخدم لتخزين وتنظيم البيانات.
+==========
+Prompt: 96 tokens, 486.891 tokens-per-sec
+Generation: 14 tokens, 29.275 tokens-per-sec
+Peak memory: 3.339 GB"
+6,Databases,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- requête = استعلام
+- base de données = قاعدة بيانات
+
+Text:
+Les requêtes SQL permettent d’interroger et de modifier les données dans une base de données.",استعلامات SQL تسمح بقراءة البيانات وتعديلها داخل قاعدة البيانات.,"==========
+استعلامات SQL تسمح بإجراء استعلامات وتعديل البيانات في قاعدة البيانات.
+==========
+Prompt: 103 tokens, 569.254 tokens-per-sec
+Generation: 19 tokens, 30.897 tokens-per-sec
+Peak memory: 3.214 GB","==========
+استعلامات SQL تسمح ب-fetching و-modifying البيانات داخل قاعدة البيانات.
+==========
+Prompt: 103 tokens, 477.448 tokens-per-sec
+Generation: 20 tokens, 27.586 tokens-per-sec
+Peak memory: 3.350 GB"
+7,Networking,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- réseau = شبكة
+- adresse IP = عنوان IP
+
+Text:
+Une adresse IP permet d’identifier un appareil connecté à un réseau.",عنوان IP يميز الجهاز المتصل بالشبكة.,"==========
+عنوان IP يسمح بتحديد جهاز ي连接 إلى شبكة.
+==========
+Prompt: 94 tokens, 521.179 tokens-per-sec
+Generation: 17 tokens, 31.324 tokens-per-sec
+Peak memory: 3.215 GB","==========
+عنوان IP يسمح بتحديد الجهاز الذي يconnect إلى الشبكة.
+==========
+Prompt: 94 tokens, 449.246 tokens-per-sec
+Generation: 18 tokens, 27.254 tokens-per-sec
+Peak memory: 3.339 GB"
+8,Networking,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- DNS = نظام أسماء النطاقات
+- serveur = خادم
+
+Text:
+Le DNS traduit les noms de domaine en adresses IP afin que les ordinateurs puissent localiser les serveurs.",نظام أسماء النطاقات يحول أسماء المواقع إلى عناوين IP حتى تتمكن الأجهزة من الوصول إلى الخوادم.,"==========
+الDNS يconvert الأسماء العشوائية إلى أرقام IP لتسهيل العثور على الخادم.
+==========
+Prompt: 112 tokens, 565.030 tokens-per-sec
+Generation: 27 tokens, 31.079 tokens-per-sec
+Peak memory: 3.223 GB","==========
+DNS يconvert اسم النطاق إلى عنوان IP، مما يسمح للبرامج بالوصول إلى الخوادم.
+==========
+Prompt: 112 tokens, 411.521 tokens-per-sec
+Generation: 28 tokens, 27.332 tokens-per-sec
+Peak memory: 3.374 GB"
+9,Web Infrastructure,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- CDN = شبكة توزيع المحتوى
+- serveur = خادم
+- contenu = محتوى
+
+Text:
+Un CDN distribue le contenu web sur plusieurs serveurs afin d’améliorer la vitesse de chargement.",شبكة توزيع المحتوى توزع محتوى الويب على عدة خوادم لتحسين سرعة التحميل.,"==========
+ال CDN ي Distribue المحتوى الالكتروني على عدة خادم لتحسين سرعة التحميل.
+==========
+Prompt: 114 tokens, 616.347 tokens-per-sec
+Generation: 26 tokens, 30.428 tokens-per-sec
+Peak memory: 3.226 GB","==========
+شبكة توزيع المحتوى توزع المحتوى عبر عدة خوادم لتحسين سرعة تحميل المحتوى.
+==========
+Prompt: 114 tokens, 520.375 tokens-per-sec
+Generation: 33 tokens, 27.318 tokens-per-sec
+Peak memory: 3.376 GB"
+10,Web Development,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- serveur web = خادم ويب
+- navigateur = متصفح
+
+Text:
+Un serveur web envoie des pages web aux navigateurs lorsqu’un utilisateur visite un site.",خادم الويب يرسل صفحات الويب إلى المتصفح عندما يزور المستخدم الموقع.,"==========
+عندما يزور المستخدم موقعًا، يرسل خادم الويب صفحةً ويبًا إلى متصفح المستخدم.
+==========
+Prompt: 104 tokens, 527.476 tokens-per-sec
+Generation: 31 tokens, 30.621 tokens-per-sec
+Peak memory: 3.215 GB","==========
+خادم الويب يرسل صفحات الويب إلى المتصفحات عندما يزور المستخدم موقعًا.
+==========
+Prompt: 104 tokens, 479.227 tokens-per-sec
+Generation: 27 tokens, 27.991 tokens-per-sec
+Peak memory: 3.352 GB"
+11,Web Development,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- protocole = بروتوكول
+- HTTP = بروتوكول HTTP
+
+Text:
+HTTP est un protocole utilisé pour transférer des pages web entre un serveur et un navigateur.",HTTP بروتوكول يُستخدم لنقل صفحات الويب بين الخادم والمتصفح.,"==========
+HTTP هو بروتوكول يستخدم لنقل صفحات الويب بين سيرفر ونطاق.
+==========
+Prompt: 108 tokens, 573.936 tokens-per-sec
+Generation: 26 tokens, 30.275 tokens-per-sec
+Peak memory: 3.220 GB","==========
+HTTP هو بروتوكول يستخدم لنقل صفحات الويب بين الخادم والجهاز.
+==========
+Prompt: 108 tokens, 498.605 tokens-per-sec
+Generation: 26 tokens, 28.153 tokens-per-sec
+Peak memory: 3.362 GB"
+12,Cybersecurity,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- pare-feu = جدار ناري
+- réseau = شبكة
+
+Text:
+Un pare-feu protège un réseau en filtrant les connexions entrantes et sortantes.",الجدار الناري يحمي الشبكة عبر تصفية الاتصالات الواردة والصادرة.,"==========
+الpare-feu يحمي شبكة من خلال تحليل و-filterة الاتصالات الداخلة والخارجة.
+==========
+Prompt: 101 tokens, 549.487 tokens-per-sec
+Generation: 27 tokens, 30.965 tokens-per-sec
+Peak memory: 3.210 GB","==========
+pare-feu = جدار ناري
+يعمل جدار الناري على حماية الشبكة من التخريب.
+==========
+Prompt: 101 tokens, 493.175 tokens-per-sec
+Generation: 28 tokens, 27.759 tokens-per-sec
+Peak memory: 3.345 GB"
+13,Cybersecurity,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- malware = برمجيات خبيثة
+
+Text:
+Les logiciels malveillants sont des programmes conçus pour endommager un système informatique.",البرمجيات الخبيثة برامج صُممت لإلحاق الضرر بالنظام المعلوماتي.,"==========
+البرمجيات الخبيثة هي البرامج التي تم تصميمها لتعتدي على نظام الكمبيوتر.
+==========
+Prompt: 100 tokens, 549.953 tokens-per-sec
+Generation: 25 tokens, 31.212 tokens-per-sec
+Peak memory: 3.210 GB","==========
+البرمجيات الخبيثة هي برامج مصممة لتعطل النظام.
+==========
+Prompt: 100 tokens, 483.930 tokens-per-sec
+Generation: 19 tokens, 28.437 tokens-per-sec
+Peak memory: 3.344 GB"
+14,Cloud Computing,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- cloud = حوسبة سحابية
+- serveur = خادم
+
+Text:
+Le cloud computing permet d’utiliser des serveurs distants pour stocker et traiter des données.",الحوسبة السحابية تسمح باستخدام خوادم بعيدة لتخزين البيانات ومعالجتها.,"==========
+الحوسبة السحابية تسمح بتحقيق تخزين ومعالجة البيانات على خادم خارجي.
+==========
+Prompt: 104 tokens, 420.566 tokens-per-sec
+Generation: 27 tokens, 30.642 tokens-per-sec
+Peak memory: 3.215 GB","==========
+الحوسبة السحابية تسمح بحفظ ومعالجة البيانات على خوادم آمنة في الإنترنت.
+==========
+Prompt: 104 tokens, 494.672 tokens-per-sec
+Generation: 27 tokens, 28.411 tokens-per-sec
+Peak memory: 3.352 GB"
+15,Web Development,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- API = واجهة برمجة التطبيقات
+
+Text:
+Une API permet à deux applications de communiquer et d’échanger des données.",واجهة برمجة التطبيقات تسمح لتطبيقين بالتواصل وتبادل البيانات.,"==========
+وهي واجهة برمجة التطبيقات تسمح بتبادل البيانات بين تطبيقات معينة.
+==========
+Prompt: 94 tokens, 531.516 tokens-per-sec
+Generation: 26 tokens, 31.153 tokens-per-sec
+Peak memory: 3.215 GB","==========
+واحدة من الوظائف الرئيسية لواحدة من الوظائف الرئيسية لواحدة من الوظائف الرئيسية لواحدة من الوظائف الرئيسية لواحدة من الوظائف الرئيسية لواحدة من الوظائف الرئيسية لواحدة من الوظائف الرئيسية لواحدة من الوظائف الرئيسية لواحدة من الوظائف الرئيسية لواحدة من الوظائف الرئيسية لواحدة من الوظائف الرئيسية لوا
+==========
+Prompt: 94 tokens, 476.122 tokens-per-sec
+Generation: 100 tokens, 27.277 tokens-per-sec
+Peak memory: 3.334 GB"
+16,Operating Systems,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- système d'exploitation = نظام التشغيل
+
+Text:
+Le système d’exploitation gère les ressources matérielles et logicielles d’un ordinateur.",نظام التشغيل يدير الموارد المادية والبرمجية في الحاسوب.,"==========
+نظام التشغيل ي manage الموارد المادية والمعنوية للجهاز.
+==========
+Prompt: 100 tokens, 414.837 tokens-per-sec
+Generation: 22 tokens, 31.343 tokens-per-sec
+Peak memory: 3.210 GB","==========
+نظام التشغيل يتحكم في موارد النظام المادية والبرمجية.
+==========
+Prompt: 100 tokens, 476.559 tokens-per-sec
+Generation: 19 tokens, 28.525 tokens-per-sec
+Peak memory: 3.344 GB"
+17,Programming Fundamentals,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- variable = متغير
+
+Text:
+Une variable est un espace mémoire utilisé pour stocker une valeur dans un programme.",المتغير مساحة في الذاكرة تُستخدم لتخزين قيمة داخل البرنامج.,"==========
+متغير هو مساحة ذاكرة تستخدم لتخزين قيمة في برنامج.
+==========
+Prompt: 89 tokens, 494.717 tokens-per-sec
+Generation: 19 tokens, 31.381 tokens-per-sec
+Peak memory: 3.209 GB","==========
+متغير هو مساحة ذاكرة تستخدم لتخزين قيمة في البرنامج.
+==========
+Prompt: 89 tokens, 462.415 tokens-per-sec
+Generation: 19 tokens, 28.565 tokens-per-sec
+Peak memory: 3.323 GB"
+18,Programming Fundamentals,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- boucle = حلقة
+
+Text:
+Une boucle permet de répéter une série d’instructions plusieurs fois dans un programme.",الحلقة تسمح بتكرار مجموعة من التعليمات عدة مرات داخل البرنامج.,"==========
+بُوْكَلَة تُعَرِّف بِالْحَلَقَة. وهي تُسْتَخْدَم في البرمجة لِتَرْكِزِ عَلِيَّةِ تَرْكِيَّةِ تَعَدِيلِ الأَنَامِلِ في برنامج.
+==========
+Prompt: 91 tokens, 391.026 tokens-per-sec
+Generation: 95 tokens, 30.398 tokens-per-sec
+Peak memory: 3.211 GB","==========
+حلقة تسمح بتنفيذ مجموعة من التعليمات عدة مرات في البرنامج.
+==========
+Prompt: 91 tokens, 460.404 tokens-per-sec
+Generation: 18 tokens, 28.489 tokens-per-sec
+Peak memory: 3.327 GB"
+19,Web Development,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- page web = صفحة ويب
+- navigateur = متصفح
+
+Text:
+Une page web est un document affiché dans un navigateur internet.",صفحة الويب وثيقة تظهر داخل متصفح الإنترنت.,"==========
+صفحة ويب هي محتوى يعرضه متصفح الإنترنت.
+==========
+Prompt: 96 tokens, 528.482 tokens-per-sec
+Generation: 17 tokens, 31.845 tokens-per-sec
+Peak memory: 3.217 GB","==========
+صفحة الويب هي محتوى يعرضه المتصفح على الشاشة.
+==========
+Prompt: 96 tokens, 483.820 tokens-per-sec
+Generation: 20 tokens, 28.282 tokens-per-sec
+Peak memory: 3.339 GB"
+20,Software Engineering,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- logiciel = برنامج
+- ingénierie logicielle = هندسة البرمجيات
+
+Text:
+L’ingénierie logicielle consiste à concevoir, développer et maintenir des logiciels.",هندسة البرمجيات هي عملية تصميم البرامج وتطويرها وصيانتها.,"==========
+الهندسة البرمجية تتضمن تصميم وتطوير وصيانة البرامج.
+==========
+Prompt: 113 tokens, 411.804 tokens-per-sec
+Generation: 21 tokens, 31.420 tokens-per-sec
+Peak memory: 3.224 GB","==========
+الهندسة البرمجية تتعلق بتصميم وتطوير وصيانة البرامج.
+==========
+Prompt: 113 tokens, 540.781 tokens-per-sec
+Generation: 19 tokens, 28.665 tokens-per-sec
+Peak memory: 3.370 GB"

@@ -1,0 +1,795 @@
+﻿id,topic,source_lang,original_text,cleaned_original_text,matched_terms,user_prompt,assistant_target
+144,Cloud Computing Fundamentals,fr,Un CDN distribue le contenu عبر عدة خوادم.,Un CDN distribue le contenu à travers plusieurs serveurs.,serveur=خادم | CDN=شبكة توزيع المحتوى | contenu=محتوى | serveurs=خوادم,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- serveur = خادم
+- CDN = شبكة توزيع المحتوى
+- contenu = محتوى
+- serveurs = خوادم
+
+Text:
+Un CDN distribue le contenu à travers plusieurs serveurs.",شبكة توزيع المحتوى توزع البيانات عبر خوادم متعددة.
+45,Cybersecurity Basics,ar,تشير البرمجيات الخبيثة إلى برامج ضارة صممت لإلحاق الضرر بالنظام أو سرقة المعلومات.,تشير البرمجيات الخبيثة إلى برامج ضارة صممت لإلحاق الضرر بالنظام أو سرقة المعلومات.,malware=برمجيات خبيثة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- malware = برمجيات خبيثة
+
+Text:
+تشير البرمجيات الخبيثة إلى برامج ضارة صممت لإلحاق الضرر بالنظام أو سرقة المعلومات.",البرمجيات الخبيثة هي برامج مضرة يمكن أن تفسد النظام أو تسرق المعلومات.
+42,Cybersecurity Basics,fr,Un pare-feu filtre le trafic réseau entrant et sortant afin de bloquer les connexions non autorisées.,Un pare-feu filtre le trafic réseau entrant et sortant afin de bloquer les connexions non autorisées.,réseau=شبكة | pare-feu=جدار ناري,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- réseau = شبكة
+- pare-feu = جدار ناري
+
+Text:
+Un pare-feu filtre le trafic réseau entrant et sortant afin de bloquer les connexions non autorisées.",الجدار الناري يراقب حركة الشبكة ويمنع الاتصالات غير المسموح بها.
+124,Databases,fr,La clause ORDER BY permet de trier les résultats d'une requête.,La clause ORDER BY permet de trier les résultats d'une requête.,requête=استعلام,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- requête = استعلام
+
+Text:
+La clause ORDER BY permet de trier les résultats d'une requête.",ORDER BY يُستخدم لترتيب نتائج الاستعلام.
+132,Networking,fr,Une adresse IPv6 est une version plus récente des adresses IP.,Une adresse IPv6 est une version plus récente des adresses IP.,adresse IP=عنوان IP,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- adresse IP = عنوان IP
+
+Text:
+Une adresse IPv6 est une version plus récente des adresses IP.",IPv6 هو إصدار أحدث من عناوين IP.
+59,Web Development,fr,Un serveur web est responsable de recevoir les requêtes des utilisateurs et de renvoyer les pages demandées.,Un serveur web est responsable de recevoir les requêtes des utilisateurs et de renvoyer les pages demandées.,requête=استعلام | serveur=خادم | page web=صفحة ويب | serveur web=خادم ويب | serveurs=خوادم,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- requête = استعلام
+- serveur = خادم
+- page web = صفحة ويب
+- serveur web = خادم ويب
+- serveurs = خوادم
+
+Text:
+Un serveur web est responsable de recevoir les requêtes des utilisateurs et de renvoyer les pages demandées.",خادم الويب يستقبل طلبات المستخدمين ويرسل صفحات الموقع المطلوبة.
+150,Algorithms,ar,يساعد تحليل الخوارزميات على فهم أدائها.,يساعد تحليل الخوارزميات على فهم أدائها.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+يساعد تحليل الخوارزميات على فهم أدائها.",تحليل الخوارزميات يدرس كفاءة الخوارزمية من حيث الوقت والذاكرة.
+138,Software Engineering,ar,تساعد نماذج التصميم على حل المشاكل البرمجية المتكررة.,تساعد نماذج التصميم على حل المشاكل البرمجية المتكررة.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+تساعد نماذج التصميم على حل المشاكل البرمجية المتكررة.",أنماط التصميم تقدم حلولًا جاهزة لمشاكل البرمجة الشائعة.
+147,Algorithms,fr,Le tri rapide divise la liste en sous-parties plus petites.,Le tri rapide divise la liste en sous-parties plus petites.,liste=قائمة | API=واجهة برمجة التطبيقات,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- liste = قائمة
+- API = واجهة برمجة التطبيقات
+
+Text:
+Le tri rapide divise la liste en sous-parties plus petites.",الفرز السريع يقسم القائمة إلى أجزاء أصغر.
+53,Databases,ar,يُستخدم القيد الفريد لضمان عدم تكرار القيم داخل عمود معين.,يُستخدم القيد الفريد لضمان عدم تكرار القيم داخل عمود معين.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+يُستخدم القيد الفريد لضمان عدم تكرار القيم داخل عمود معين.",القيد الفريد يمنع تكرار نفس القيمة داخل العمود.
+49,Cloud Computing Fundamentals,ar,تسمح الافتراضية بتشغيل عدة أنظمة أو بيئات عمل على نفس الجهاز المادي.,تسمح الافتراضية بتشغيل plusieurs أنظمة أو بيئات عمل على نفس الجهاز المادي.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+تسمح الافتراضية بتشغيل plusieurs أنظمة أو بيئات عمل على نفس الجهاز المادي.",الافتراضية تعني تشغيل أكثر من نظام أو بيئة عمل على جهاز واحد.
+24,Web Development,ar,تعمل الواجهة الأمامية على عرض العناصر التي يراها المستخدم ويتفاعل معها مباشرة داخل المتصفح.,تعمل الواجهة الأمامية على عرض العناصر التي يراها utilisateur ويتفاعل معها مباشرة داخل navigateur.,navigateur=متصفح,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- navigateur = متصفح
+
+Text:
+تعمل الواجهة الأمامية على عرض العناصر التي يراها utilisateur ويتفاعل معها مباشرة داخل navigateur.",الواجهة الأمامية هي الجزء الذي يراه المستخدم ويتعامل معه مباشرة في الموقع.
+81,Operating Systems,fr,Le multitâche permet au système d'exploitation d'exécuter plusieurs programmes simultanément.,Le multitâche permet au système d'exploitation d'exécuter plusieurs programmes simultanément.,programme=برنامج | système d'exploitation=نظام تشغيل,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- programme = برنامج
+- système d'exploitation = نظام تشغيل
+
+Text:
+Le multitâche permet au système d'exploitation d'exécuter plusieurs programmes simultanément.",تعدد المهام يسمح للنظام بتشغيل عدة برامج في نفس الوقت.
+142,Cloud Computing Fundamentals,fr,Un service cloud géré est administré par le fournisseur.,Un service cloud géré est administré par le fournisseur.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+Un service cloud géré est administré par le fournisseur.",الخدمة السحابية المُدارة يديرها مزود الخدمة.
+14,Algorithms,ar,تُستخدم خوارزميات الفرز لترتيب البيانات وفق ترتيب معيّن مثل التصاعدي أو التنازلي.,تُستخدم خوارزميات الفرز لترتيب données وفق ترتيب معيّن مثل التصاعدي أو التنازلي.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+تُستخدم خوارزميات الفرز لترتيب données وفق ترتيب معيّن مثل التصاعدي أو التنازلي.",خوارزميات الفرز تُستعمل لترتيب البيانات، مثل وضعها من الأصغر إلى الأكبر.
+7,Object-Oriented Programming,fr,"Un objet est une instance concrète d'une classe, possédant ses propres valeurs pour les attributs définis.","Un objet est une instance concrète d'une classe, possédant ses propres valeurs pour les attributs définis.",classe=صنف | objet=كائن,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- classe = صنف
+- objet = كائن
+
+Text:
+Un objet est une instance concrète d'une classe, possédant ses propres valeurs pour les attributs définis.",الكائن هو نسخة فعلية من الصنف، وله قيمه الخاصة للخصائص.
+34,Operating Systems,fr,Le système de fichiers organise les données sur le disque en dossiers et fichiers pour faciliter leur stockage et leur accès.,Le système de fichiers organise les données sur le disque en dossiers et fichiers pour faciliter leur stockage et leur accès.,file=طابور | stockage=تخزين | système de fichiers=نظام ملفات,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- file = طابور
+- stockage = تخزين
+- système de fichiers = نظام ملفات
+
+Text:
+Le système de fichiers organise les données sur le disque en dossiers et fichiers pour faciliter leur stockage et leur accès.",نظام الملفات ينظم البيانات في ملفات ومجلدات لتسهيل حفظها والوصول إليها.
+117,Algorithms,fr,La recherche en profondeur explore les nœuds d'un graphe en profondeur.,La recherche en profondeur explore les nœuds d'un graphe en profondeur.,graphe=رسم بياني,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- graphe = رسم بياني
+
+Text:
+La recherche en profondeur explore les nœuds d'un graphe en profondeur.",البحث العميق يزور العقد في الرسم البياني بشكل متتابع نحو العمق.
+50,Cloud Computing Fundamentals,ar,تتميز الحوسبة السحابية بالمرونة لأنها تسمح بزيادة الموارد أو تقليلها حسب الحاجة.,تتميز الحوسبة السحابية بالمرونة لأنها تسمح بزيادة الموارد أو تقليلها حسب الحاجة.,cloud computing=حوسبة سحابية,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- cloud computing = حوسبة سحابية
+
+Text:
+تتميز الحوسبة السحابية بالمرونة لأنها تسمح بزيادة الموارد أو تقليلها حسب الحاجة.",الحوسبة السحابية مرنة لأنها تسمح بتكبير الموارد أو تقليلها حسب الحاجة.
+97,Web Development,fr,Les cookies permettent aux sites web de stocker des informations sur le navigateur de l'utilisateur.,Les cookies permettent aux sites web de stocker des informations sur le navigateur de l'utilisateur.,site web=موقع ويب | navigateur=متصفح | cookie=ملف تعريف الارتباط,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- site web = موقع ويب
+- navigateur = متصفح
+- cookie = ملف تعريف الارتباط
+
+Text:
+Les cookies permettent aux sites web de stocker des informations sur le navigateur de l'utilisateur.",الكوكيز تسمح للمواقع بحفظ معلومات صغيرة في متصفح المستخدم.
+60,Web Development,ar,يُستخدم إطار العمل لتسهيل بناء التطبيقات وتوفير أدوات جاهزة للمطورين.,يُستخدم إطار العمل لتسهيل بناء التطبيقات وتوفير أدوات جاهزة للمطورين.,framework=إطار عمل,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- framework = إطار عمل
+
+Text:
+يُستخدم إطار العمل لتسهيل بناء التطبيقات وتوفير أدوات جاهزة للمطورين.",إطار العمل يوفر أدوات وقواعد تساعد المطور على بناء التطبيقات بسرعة.
+100,Web Development,ar,يُستخدم التوجيه في تطبيقات الويب لتحديد الصفحة التي يجب عرضها.,يُستخدم التوجيه في تطبيقات الويب لتحديد الصفحة التي يجب عرضها.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+يُستخدم التوجيه في تطبيقات الويب لتحديد الصفحة التي يجب عرضها.",التوجيه يحدد أي صفحة أو مكون يجب عرضه في التطبيق.
+71,Cloud Computing Fundamentals,fr,Le cloud computing permet d'utiliser des ressources informatiques via Internet.,Le cloud computing permet d'utiliser des ressources informatiques via Internet.,internet=الإنترنت | cloud computing=حوسبة سحابية,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- internet = الإنترنت
+- cloud computing = حوسبة سحابية
+
+Text:
+Le cloud computing permet d'utiliser des ressources informatiques via Internet.",الحوسبة السحابية تسمح باستخدام موارد الحاسوب عبر الإنترنت.
+105,Networking,ar,تساعد الجدران النارية في حماية الشبكات من الهجمات.,تساعد الجدران النارية في حماية الشبكات من الهجمات.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+تساعد الجدران النارية في حماية الشبكات من الهجمات.",الجدار الناري يراقب حركة الشبكة ويمنع الاتصالات الضارة.
+58,Web Development,ar,يُستخدم JSON لنقل البيانات بين الخادم والتطبيقات بطريقة سهلة القراءة.,يُستخدم JSON لنقل données بين serveur والتطبيقات بطريقة سهلة القراءة.,serveur=خادم | serveur web=خادم ويب | JSON=تنسيق JSON | serveurs=خوادم,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- serveur = خادم
+- serveur web = خادم ويب
+- JSON = تنسيق JSON
+- serveurs = خوادم
+
+Text:
+يُستخدم JSON لنقل données بين serveur والتطبيقات بطريقة سهلة القراءة.",JSON هو تنسيق بسيط يُستخدم لإرسال البيانات بين الخادم والتطبيق.
+55,Databases,ar,يُستخدم النسخ الاحتياطي لحماية البيانات من الفقدان.,يُستخدم النسخ الاحتياطي لحماية données من الفقدان.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+يُستخدم النسخ الاحتياطي لحماية données من الفقدان.",النسخ الاحتياطي هو حفظ نسخة من البيانات حتى يمكن استرجاعها عند حدوث مشكلة.
+10,Object-Oriented Programming,fr,Le polymorphisme permet à des objets de classes différentes de répondre différemment à une même méthode.,Le polymorphisme permet à des objets de classes différentes de répondre différemment à une même méthode.,méthode=دالة | classe=صنف | objet=كائن | polymorphisme=تعدد الأشكال,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- méthode = دالة
+- classe = صنف
+- objet = كائن
+- polymorphisme = تعدد الأشكال
+
+Text:
+Le polymorphisme permet à des objets de classes différentes de répondre différemment à une même méthode.",تعدد الأشكال يعني أن كائنات مختلفة يمكنها تنفيذ نفس الوظيفة بطرق مختلفة.
+51,Databases,fr,Une transaction garantit que plusieurs opérations sur une base de données sont exécutées comme une seule unité cohérente.,Une transaction garantit que plusieurs opérations sur une base de données sont exécutées comme une seule unité cohérente.,base de données=قاعدة بيانات | transaction=معاملة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- base de données = قاعدة بيانات
+- transaction = معاملة
+
+Text:
+Une transaction garantit que plusieurs opérations sur une base de données sont exécutées comme une seule unité cohérente.",المعاملة في قاعدة البيانات تعني تنفيذ عدة عمليات معًا كوحدة واحدة بحيث تنجح كلها أو تفشل كلها.
+1,Programming Fundamentals,fr,Une variable est un espace mémoire nommé utilisé pour stocker une valeur qui peut changer pendant l'exécution du programme.,Une variable est un espace mémoire nommé utilisé pour stocker une valeur qui peut changer pendant l'exécution du programme.,variable=متغير | programme=برنامج | exécution=تنفيذ | mémoire=ذاكرة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- variable = متغير
+- programme = برنامج
+- exécution = تنفيذ
+- mémoire = ذاكرة
+
+Text:
+Une variable est un espace mémoire nommé utilisé pour stocker une valeur qui peut changer pendant l'exécution du programme.",المتغير هو مكان في الذاكرة نضع فيه قيمة، ويمكن أن تتغير هذه القيمة أثناء تشغيل البرنامج.
+118,Algorithms,ar,يستكشف البحث العرضي العقد مستوى بعد مستوى.,يستكشف البحث العرضي العقد مستوى بعد مستوى.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+يستكشف البحث العرضي العقد مستوى بعد مستوى.",البحث العرضي يزور العقد طبقة بعد طبقة.
+41,Cybersecurity Basics,fr,Le chiffrement transforme les données en une forme illisible pour protéger leur confidentialité.,Le chiffrement transforme les données en une forme illisible pour protéger leur confidentialité.,chiffrement=تشفير,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- chiffrement = تشفير
+
+Text:
+Le chiffrement transforme les données en une forme illisible pour protéger leur confidentialité.",التشفير يحول البيانات إلى شكل غير مفهوم لحمايتها من القراءة غير المصرح بها.
+113,Cloud Computing Fundamentals,ar,تساعد موازنة الحمل على توزيع الطلبات بين الخوادم.,تساعد موازنة الحمل على توزيع الطلبات بين الخوادم.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+تساعد موازنة الحمل على توزيع الطلبات بين الخوادم.",موازنة الحمل توزع الطلبات على عدة خوادم لتجنب الضغط.
+123,Databases,ar,يُستخدم GROUP BY لتجميع السجلات التي لها نفس القيمة.,يُستخدم GROUP BY لتجميع السجلات التي لها نفس القيمة.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+يُستخدم GROUP BY لتجميع السجلات التي لها نفس القيمة.",GROUP BY يجمع السجلات التي تشترك في نفس القيمة.
+43,Cybersecurity Basics,ar,يُعد التصيد الاحتيالي من الهجمات الشائعة التي تحاول خداع المستخدم للحصول على معلومات حساسة.,يُعد التصيد الاحتيالي من الهجمات الشائعة التي تحاول خداع utilisateur للحصول على معلومات حساسة.,phishing=تصيد احتيالي,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- phishing = تصيد احتيالي
+
+Text:
+يُعد التصيد الاحتيالي من الهجمات الشائعة التي تحاول خداع utilisateur للحصول على معلومات حساسة.",التصيد الاحتيالي هو محاولة خداع المستخدم حتى يكشف معلومات مهمة مثل كلمة المرور.
+79,Algorithms,fr,Une pile fonctionne selon le principe dernier entré أول خارج.,Une pile fonctionne selon le principe dernier entré أول خارج.,fonction=دالة | pile=مكدس,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- fonction = دالة
+- pile = مكدس
+
+Text:
+Une pile fonctionne selon le principe dernier entré أول خارج.",المكدس يعمل وفق مبدأ آخر عنصر دخل هو أول عنصر يخرج.
+107,Software Engineering,fr,Un dépôt Git contient l'historique complet du projet.,Un dépôt Git contient l'historique complet du projet.,version control=التحكم في الإصدارات | dépôt git=مستودع Git,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- version control = التحكم في الإصدارات
+- dépôt git = مستودع Git
+
+Text:
+Un dépôt Git contient l'historique complet du projet.",مستودع Git يحتوي على جميع التغييرات التي حدثت في المشروع.
+93,Databases,ar,يُستخدم الفهرس المركب لتسريع البحث في أكثر من عمود.,يُستخدم الفهرس المركب لتسريع البحث في أكثر من عمود.,index=فهرس,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- index = فهرس
+
+Text:
+يُستخدم الفهرس المركب لتسريع البحث في أكثر من عمود.",الفهرس المركب يساعد على تسريع البحث عندما يعتمد على عدة أعمدة.
+119,Algorithms,fr,La récursivité permet à une fonction de s'appeler elle-même.,La récursivité permet à une fonction de s'appeler elle-même.,fonction=دالة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- fonction = دالة
+
+Text:
+La récursivité permet à une fonction de s'appeler elle-même.",الاستدعاء الذاتي يعني أن الدالة يمكن أن تستدعي نفسها.
+57,Web Development,fr,Une API permet à différentes applications de communiquer entre elles.,Une API permet à différentes applications de communiquer entre elles.,API=واجهة برمجة التطبيقات,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- API = واجهة برمجة التطبيقات
+
+Text:
+Une API permet à différentes applications de communiquer entre elles.",واجهة البرمجة API تسمح للتطبيقات المختلفة بالتواصل وتبادل البيانات.
+140,Software Engineering,ar,يساعد الاختبار الآلي على اكتشاف الأخطاء بسرعة.,يساعد الاختبار الآلي على اكتشاف الأخطاء بسرعة.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+يساعد الاختبار الآلي على اكتشاف الأخطاء بسرعة.",الاختبار الآلي يسمح باكتشاف الأخطاء دون تدخل يدوي.
+139,Software Engineering,fr,Une architecture logicielle définit l'organisation générale d'un système.,Une architecture logicielle définit l'organisation générale d'un système.,architecture logicielle=معمارية البرمجيات,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- architecture logicielle = معمارية البرمجيات
+
+Text:
+Une architecture logicielle définit l'organisation générale d'un système.",العمارة البرمجية تحدد البنية العامة للنظام.
+91,Databases,fr,Une vue dans une base de données est une table virtuelle basée sur une requête.,Une vue dans une base de données est une table virtuelle basée sur une requête.,base de données=قاعدة بيانات | table=جدول | requête=استعلام | vue=عرض,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- base de données = قاعدة بيانات
+- table = جدول
+- requête = استعلام
+- vue = عرض
+
+Text:
+Une vue dans une base de données est une table virtuelle basée sur une requête.",العرض في قاعدة البيانات هو جدول افتراضي يعتمد على نتيجة استعلام.
+72,Cloud Computing Fundamentals,fr,La scalabilité permet à un système de gérer زيادة عدد المستخدمين.,La scalabilité permet à un système de gérer زيادة عدد المستخدمين.,scalabilité=قابلية التوسع,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- scalabilité = قابلية التوسع
+
+Text:
+La scalabilité permet à un système de gérer زيادة عدد المستخدمين.",قابلية التوسع تعني قدرة النظام على التعامل مع عدد أكبر من المستخدمين.
+30,Networking,ar,يسمح DNS بتحويل أسماء المواقع التي يكتبها المستخدم إلى عناوين IP تفهمها الأجهزة.,يسمح DNS بتحويل أسماء المواقع التي يكتبها utilisateur إلى عناوين IP تفهمها الأجهزة.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+يسمح DNS بتحويل أسماء المواقع التي يكتبها utilisateur إلى عناوين IP تفهمها الأجهزة.",DNS يحول اسم الموقع إلى عنوان IP حتى تستطيع الأجهزة الوصول إليه.
+141,Cloud Computing Fundamentals,fr,Un cluster est un groupe de serveurs travaillant ensemble.,Un cluster est un groupe de serveurs travaillant ensemble.,serveur=خادم | cluster=عنقود | serveurs=خوادم,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- serveur = خادم
+- cluster = عنقود
+- serveurs = خوادم
+
+Text:
+Un cluster est un groupe de serveurs travaillant ensemble.",الـ cluster هو مجموعة خوادم تعمل معًا.
+39,Software Engineering,fr,Les tests unitaires vérifient le bon fonctionnement de petites parties du code de manière isolée.,Les tests unitaires vérifient le bon fonctionnement de petites parties du code de manière isolée.,fonction=دالة | test unitaire=اختبار وحدة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- fonction = دالة
+- test unitaire = اختبار وحدة
+
+Text:
+Les tests unitaires vérifient le bon fonctionnement de petites parties du code de manière isolée.",اختبارات الوحدة تتأكد من أن أجزاء صغيرة من الكود تعمل بشكل صحيح لوحدها.
+86,Cybersecurity Basics,fr,Un mot de passe fort doit contenir lettres chiffres et symboles.,Un mot de passe fort doit contenir lettres chiffres et symboles.,mot de passe=كلمة مرور,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- mot de passe = كلمة مرور
+
+Text:
+Un mot de passe fort doit contenir lettres chiffres et symboles.",كلمة المرور القوية تحتوي على حروف وأرقام ورموز مختلفة.
+63,Networking,ar,يُستخدم عنوان MAC لتمييز بطاقة الشبكة داخل الجهاز.,يُستخدم عنوان MAC لتمييز بطاقة réseau داخل الجهاز.,réseau=شبكة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- réseau = شبكة
+
+Text:
+يُستخدم عنوان MAC لتمييز بطاقة réseau داخل الجهاز.",عنوان MAC هو رقم يميز بطاقة الشبكة داخل الجهاز.
+37,Software Engineering,fr,"La méthode Agile privilégie le développement itératif, la collaboration et l'adaptation rapide aux changements.","La méthode Agile privilégie le développement itératif, la collaboration et l'adaptation rapide aux changements.",méthode=دالة | API=واجهة برمجة التطبيقات,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- méthode = دالة
+- API = واجهة برمجة التطبيقات
+
+Text:
+La méthode Agile privilégie le développement itératif, la collaboration et l'adaptation rapide aux changements.",منهجية أجايل تعتمد على العمل في خطوات قصيرة، والتعاون، والتكيف السريع مع التغييرات.
+98,Web Development,ar,يُستخدم التخزين المحلي في المتصفح لحفظ البيانات مؤقتًا.,يُستخدم التخزين المحلي في navigateur لحفظ données مؤقتًا.,navigateur=متصفح,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- navigateur = متصفح
+
+Text:
+يُستخدم التخزين المحلي في navigateur لحفظ données مؤقتًا.",التخزين المحلي يسمح بحفظ بيانات في المتصفح دون الحاجة إلى خادم.
+136,Software Engineering,fr,Un backlog contient la liste des tâches à réaliser dans un projet.,Un backlog contient la liste des tâches à réaliser dans un projet.,liste=قائمة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- liste = قائمة
+
+Text:
+Un backlog contient la liste des tâches à réaliser dans un projet.",الـ backlog يحتوي على قائمة المهام التي يجب تنفيذها في المشروع.
+18,Databases,ar,يُستخدم المفتاح الأساسي لتمييز كل سجل داخل الجدول بطريقة فريدة.,يُستخدم المفتاح الأساسي لتمييز كل سجل داخل الجدول بطريقة فريدة.,table=جدول,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- table = جدول
+
+Text:
+يُستخدم المفتاح الأساسي لتمييز كل سجل داخل الجدول بطريقة فريدة.",المفتاح الأساسي هو قيمة تميز كل سطر في الجدول بشكل خاص.
+134,Networking,fr,Un proxy agit comme intermédiaire entre le client et le serveur.,Un proxy agit comme intermédiaire entre le client et le serveur.,serveur=خادم | client=عميل | serveurs=خوادم,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- serveur = خادم
+- client = عميل
+- serveurs = خوادم
+
+Text:
+Un proxy agit comme intermédiaire entre le client et le serveur.",الخادم الوسيط يعمل كوسيط بين العميل والخادم.
+129,Web Development,fr,Un composant UI est une partie réutilisable de l'interface utilisateur.,Un composant UI est une partie réutilisable de l'interface utilisateur.,interface utilisateur=واجهة المستخدم,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- interface utilisateur = واجهة المستخدم
+
+Text:
+Un composant UI est une partie réutilisable de l'interface utilisateur.",مكون واجهة المستخدم هو جزء يمكن إعادة استعماله في الواجهة.
+145,Cloud Computing Fundamentals,ar,يساعد التخزين الموزع على حفظ البيانات في عدة مواقع.,يساعد التخزين الموزع على حفظ données في plusieurs مواقع.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+يساعد التخزين الموزع على حفظ données في plusieurs مواقع.",التخزين الموزع يحفظ البيانات عبر عدة خوادم.
+92,Databases,fr,Une clé étrangère permet de créer une relation entre deux tables.,Une clé étrangère permet de créer une relation entre deux tables.,table=جدول | clé étrangère=مفتاح خارجي,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- table = جدول
+- clé étrangère = مفتاح خارجي
+
+Text:
+Une clé étrangère permet de créer une relation entre deux tables.",المفتاح الخارجي يربط جدولًا بجدول آخر في قاعدة البيانات.
+33,Operating Systems,ar,تُستخدم إدارة الذاكرة لتخصيص المساحات اللازمة للبرامج ومراقبة استعمالها.,تُستخدم إدارة الذاكرة لتخصيص المساحات اللازمة للبرامج ومراقبة استعمالها.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+تُستخدم إدارة الذاكرة لتخصيص المساحات اللازمة للبرامج ومراقبة استعمالها.",إدارة الذاكرة تعني توزيع مساحة الذاكرة على البرامج ومتابعة استعمالها.
+8,Object-Oriented Programming,fr,L'héritage permet à une classe d'acquérir les propriétés et les méthodes d'une autre classe afin de favoriser la réutilisation du code.,L'héritage permet à une classe d'acquérir les propriétés et les méthodes d'une autre classe afin de favoriser la réutilisation du code.,méthode=دالة | classe=صنف | héritage=وراثة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- méthode = دالة
+- classe = صنف
+- héritage = وراثة
+
+Text:
+L'héritage permet à une classe d'acquérir les propriétés et les méthodes d'une autre classe afin de favoriser la réutilisation du code.",الوراثة تعني أن صنفًا جديدًا يمكنه الاستفادة من الخصائص والوظائف الموجودة في صنف آخر، وهذا يساعد على إعادة استعمال الكود.
+94,Databases,fr,Les procédures stockées permettent d'exécuter des opérations SQL complexes côté serveur.,Les procédures stockées permettent d'exécuter des opérations SQL complexes côté serveur.,serveur=خادم | serveurs=خوادم,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- serveur = خادم
+- serveurs = خوادم
+
+Text:
+Les procédures stockées permettent d'exécuter des opérations SQL complexes côté serveur.",الإجراءات المخزنة هي أوامر SQL محفوظة في الخادم لتنفيذ عمليات معقدة.
+35,Operating Systems,ar,يُستعمل الجدولة لتحديد ترتيب تنفيذ العمليات داخل المعالج.,يُستعمل الجدولة لتحديد ترتيب تنفيذ العمليات داخل المعالج.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+يُستعمل الجدولة لتحديد ترتيب تنفيذ العمليات داخل المعالج.",الجدولة تعني تحديد أي عملية ستعمل أولًا داخل المعالج.
+148,Algorithms,ar,تساعد خوارزميات البحث على إيجاد عنصر داخل البيانات.,تساعد خوارزميات البحث على إيجاد عنصر داخل البيانات.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+تساعد خوارزميات البحث على إيجاد عنصر داخل البيانات.",خوارزميات البحث تُستخدم للعثور على عنصر داخل مجموعة بيانات.
+44,Cybersecurity Basics,fr,L'authentification multifacteur renforce la sécurité en exigeant plusieurs preuves d'identité.,L'authentification multifacteur renforce la sécurité en exigeant plusieurs preuves d'identité.,authentification=مصادقة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- authentification = مصادقة
+
+Text:
+L'authentification multifacteur renforce la sécurité en exigeant plusieurs preuves d'identité.",المصادقة متعددة العوامل تزيد الأمان لأنها تطلب أكثر من طريقة لإثبات الهوية.
+64,Networking,fr,La bande passante représente la quantité de données pouvant être transmise sur un réseau.,La bande passante représente la quantité de données pouvant être transmise sur un réseau.,réseau=شبكة | bande passante=عرض النطاق,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- réseau = شبكة
+- bande passante = عرض النطاق
+
+Text:
+La bande passante représente la quantité de données pouvant être transmise sur un réseau.",عرض النطاق يشير إلى كمية البيانات التي يمكن إرسالها عبر الشبكة.
+13,Algorithms,fr,"La recherche binaire réduit l'espace de recherche de moitié à chaque étape, à condition que les données soient triées.","La recherche binaire réduit l'espace de recherche de moitié à chaque étape, à condition que les données soient triées.",,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+La recherche binaire réduit l'espace de recherche de moitié à chaque étape, à condition que les données soient triées.",البحث الثنائي يقسم مجال البحث إلى نصفين في كل مرة، لكنه يحتاج إلى بيانات مرتبة.
+62,Networking,fr,Le protocole HTTP est utilisé pour transférer les pages web entre le serveur et le navigateur.,Le protocole HTTP est utilisé pour transférer les pages web entre le serveur et le navigateur.,serveur=خادم | protocole=بروتوكول | page web=صفحة ويب | navigateur=متصفح | serveur web=خادم ويب | serveurs=خوادم,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- serveur = خادم
+- protocole = بروتوكول
+- page web = صفحة ويب
+- navigateur = متصفح
+- serveur web = خادم ويب
+- serveurs = خوادم
+
+Text:
+Le protocole HTTP est utilisé pour transférer les pages web entre le serveur et le navigateur.",بروتوكول HTTP يستخدم لنقل صفحات الويب بين الخادم والمتصفح.
+26,Networking,fr,Le modèle OSI divise les communications réseau en plusieurs couches afin de faciliter la compréhension et la conception des réseaux.,Le modèle OSI divise les communications réseau en plusieurs couches afin de faciliter la compréhension et la conception des réseaux.,réseau=شبكة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- réseau = شبكة
+
+Text:
+Le modèle OSI divise les communications réseau en plusieurs couches afin de faciliter la compréhension et la conception des réseaux.",نموذج OSI يقسم الاتصال في الشبكات إلى طبقات، حتى يسهل فهم الشبكات وتصميمها.
+110,Software Engineering,ar,تساعد المراجعة البرمجية على تحسين جودة الكود.,تساعد المراجعة البرمجية على تحسين جودة الكود.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+تساعد المراجعة البرمجية على تحسين جودة الكود.",مراجعة الكود تسمح للمطورين باكتشاف الأخطاء وتحسين الجودة.
+127,Web Development,fr,La réponse HTTP contient les données demandées par le client.,La réponse HTTP contient les données demandées par le client.,client=عميل | réponse HTTP=استجابة HTTP,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- client = عميل
+- réponse HTTP = استجابة HTTP
+
+Text:
+La réponse HTTP contient les données demandées par le client.",استجابة HTTP تحتوي على البيانات التي طلبها العميل.
+22,Web Development,fr,"CSS est utilisé pour contrôler la présentation visuelle d'une page web, comme les couleurs, les marges et les polices.","CSS est utilisé pour contrôler la présentation visuelle d'une page web, comme les couleurs, les marges et les polices.",page web=صفحة ويب,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- page web = صفحة ويب
+
+Text:
+CSS est utilisé pour contrôler la présentation visuelle d'une page web, comme les couleurs, les marges et les polices.",CSS تستعمل لتغيير شكل صفحة الويب، مثل الألوان والخطوط والمسافات.
+126,Web Development,fr,Une requête HTTP est envoyée par le navigateur pour demander une ressource au serveur.,Une requête HTTP est envoyée par le navigateur pour demander une ressource au serveur.,requête=استعلام | serveur=خادم | navigateur=متصفح | serveur web=خادم ويب | requête HTTP=طلب HTTP | serveurs=خوادم,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- requête = استعلام
+- serveur = خادم
+- navigateur = متصفح
+- serveur web = خادم ويب
+- requête HTTP = طلب HTTP
+- serveurs = خوادم
+
+Text:
+Une requête HTTP est envoyée par le navigateur pour demander une ressource au serveur.",طلب HTTP يرسله المتصفح للحصول على مورد من الخادم.
+73,Cloud Computing Fundamentals,ar,يُستخدم التخزين السحابي لحفظ الملفات على خوادم عبر الإنترنت.,يُستخدم التخزين السحابي لحفظ الملفات على serveurs à travers Internet.,file=طابور | serveur=خادم | internet=الإنترنت | serveurs=خوادم,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- file = طابور
+- serveur = خادم
+- internet = الإنترنت
+- serveurs = خوادم
+
+Text:
+يُستخدم التخزين السحابي لحفظ الملفات على serveurs à travers Internet.",التخزين السحابي يسمح بحفظ الملفات على الإنترنت بدل الجهاز المحلي.
+109,Software Engineering,fr,Un commit enregistre un ensemble de modifications dans le projet.,Un commit enregistre un ensemble de modifications dans le projet.,commit=تثبيت تغييرات,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- commit = تثبيت تغييرات
+
+Text:
+Un commit enregistre un ensemble de modifications dans le projet.",الالتزام في Git يسجل مجموعة من التغييرات في المشروع.
+19,Databases,fr,La normalisation vise à réduire la redondance des données et à améliorer la cohérence dans la base de données.,La normalisation vise à réduire la redondance des données et à améliorer la cohérence dans la base de données.,base de données=قاعدة بيانات | normalisation=تطبيع,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- base de données = قاعدة بيانات
+- normalisation = تطبيع
+
+Text:
+La normalisation vise à réduire la redondance des données et à améliorer la cohérence dans la base de données.",التطبيع يهدف إلى تقليل تكرار البيانات وتحسين تنظيمها داخل قاعدة البيانات.
+90,Cybersecurity Basics,ar,يُستخدم التحقق الثنائي لزيادة أمان حساب المستخدم.,يُستخدم التحقق الثنائي لزيادة أمان حساب المستخدم.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+يُستخدم التحقق الثنائي لزيادة أمان حساب المستخدم.",التحقق الثنائي يضيف خطوة إضافية للتأكد من هوية المستخدم.
+83,Operating Systems,ar,تسمح إدارة العمليات بتنظيم تشغيل البرامج داخل النظام.,تسمح إدارة العمليات بتنظيم تشغيل البرامج داخل النظام.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+تسمح إدارة العمليات بتنظيم تشغيل البرامج داخل النظام.",إدارة العمليات تنظم كيفية تشغيل البرامج داخل النظام.
+149,Algorithms,fr,La programmation dynamique résout un problème en sous-problèmes.,La programmation dynamique résout un problème en sous-problèmes.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+La programmation dynamique résout un problème en sous-problèmes.",البرمجة الديناميكية تحل المشكلة عبر تقسيمها إلى مشاكل أصغر.
+85,Operating Systems,ar,تُستخدم المقاطعات لإعلام المعالج بحدوث حدث معين.,تُستخدم المقاطعات لإعلام المعالج بحدوث حدث معين.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+تُستخدم المقاطعات لإعلام المعالج بحدوث حدث معين.",المقاطعة هي إشارة تخبر المعالج بحدوث حدث يحتاج إلى معالجة.
+104,Networking,fr,Un ping permet de vérifier si un appareil est accessible sur le réseau.,Un ping permet de vérifier si un appareil est accessible sur le réseau.,réseau=شبكة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- réseau = شبكة
+
+Text:
+Un ping permet de vérifier si un appareil est accessible sur le réseau.",أمر ping يستخدم لمعرفة ما إذا كان الجهاز متصلًا بالشبكة.
+131,Networking,fr,Le protocole HTTPS sécurise la communication entre le navigateur et le serveur.,Le protocole HTTPS sécurise la communication entre le navigateur et le serveur.,serveur=خادم | protocole=بروتوكول | navigateur=متصفح | serveur web=خادم ويب | serveurs=خوادم,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- serveur = خادم
+- protocole = بروتوكول
+- navigateur = متصفح
+- serveur web = خادم ويب
+- serveurs = خوادم
+
+Text:
+Le protocole HTTPS sécurise la communication entre le navigateur et le serveur.",HTTPS يؤمن الاتصال بين المتصفح والخادم باستخدام التشفير.
+146,Algorithms,fr,Un arbre binaire est une structure de données composée de nœuds.,Un arbre binaire est une structure de données composée de nœuds.,structure de données=هيكل بيانات | arbre=شجرة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- structure de données = هيكل بيانات
+- arbre = شجرة
+
+Text:
+Un arbre binaire est une structure de données composée de nœuds.",الشجرة الثنائية هي هيكل بيانات يتكون من عقد.
+32,Operating Systems,fr,Un processus est un programme en cours d'exécution avec son propre état et ses ressources.,Un processus est un programme en cours d'exécution avec son propre état et ses ressources.,programme=برنامج | exécution=تنفيذ | processus=عملية,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- programme = برنامج
+- exécution = تنفيذ
+- processus = عملية
+
+Text:
+Un processus est un programme en cours d'exécution avec son propre état et ses ressources.",العملية هي برنامج يشتغل حاليًا وله حالته وموارده الخاصة.
+2,Programming Fundamentals,fr,Une boucle permet d'exécuter plusieurs fois le même bloc d'instructions tant qu'une condition est vérifiée.,Une boucle permet d'exécuter plusieurs fois le même bloc d'instructions tant qu'une condition est vérifiée.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+Une boucle permet d'exécuter plusieurs fois le même bloc d'instructions tant qu'une condition est vérifiée.",الحلقة تسمح بتكرار نفس الأوامر عدة مرات ما دام الشرط صحيحًا.
+48,Cloud Computing Fundamentals,fr,Le SaaS permet aux utilisateurs d'accéder à des logiciels hébergés en ligne à travers un navigateur ou une application.,Le SaaS permet aux utilisateurs d'accéder à des logiciels hébergés en ligne à travers un navigateur ou une application.,navigateur=متصفح,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- navigateur = متصفح
+
+Text:
+Le SaaS permet aux utilisateurs d'accéder à des logiciels hébergés en ligne à travers un navigateur ou une application.",SaaS يسمح باستعمال برامج موجودة على الإنترنت عبر المتصفح أو التطبيق.
+11,Algorithms,fr,Un algorithme est une suite finie d'étapes ordonnées permettant de résoudre un problème donné.,Un algorithme est une suite finie d'étapes ordonnées permettant de résoudre un problème donné.,algorithme=خوارزمية,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- algorithme = خوارزمية
+
+Text:
+Un algorithme est une suite finie d'étapes ordonnées permettant de résoudre un problème donné.",الخوارزمية هي مجموعة خطوات مرتبة ومحددة لحل مشكلة معينة.
+5,Programming Fundamentals,ar,يُعد نوع البيانات عنصرًا أساسيًا يحدد طبيعة القيم التي يمكن تخزينها في المتغيرات.,يُعد نوع données عنصرًا أساسيًا يحدد طبيعة القيم التي يمكن تخزينها في المتغيرات.,variable=متغير,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- variable = متغير
+
+Text:
+يُعد نوع données عنصرًا أساسيًا يحدد طبيعة القيم التي يمكن تخزينها في المتغيرات.",نوع البيانات يحدد نوع القيم التي يمكن حفظها داخل المتغير.
+6,Object-Oriented Programming,fr,"En programmation orientée objet, une classe sert de modèle pour créer des objets partageant les mêmes propriétés et comportements.","En programmation orientée objet, une classe sert de modèle pour créer des objets partageant les mêmes propriétés et comportements.",classe=صنف | objet=كائن,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- classe = صنف
+- objet = كائن
+
+Text:
+En programmation orientée objet, une classe sert de modèle pour créer des objets partageant les mêmes propriétés et comportements.",في البرمجة كائنية التوجه، الصنف هو قالب نستعمله لإنشاء كائنات لها نفس الخصائص والوظائف.
+108,Software Engineering,ar,يسمح الدمج بدمج التغييرات من فرع إلى آخر.,يسمح الدمج بدمج التغييرات من فرع إلى آخر.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+يسمح الدمج بدمج التغييرات من فرع إلى آخر.",الدمج يجمع التغييرات من فرعين مختلفين في المشروع.
+111,Cloud Computing Fundamentals,fr,Une machine virtuelle simule un ordinateur complet dans le cloud.,Une machine virtuelle simule un ordinateur complet dans le cloud.,machine virtuelle=آلة افتراضية,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- machine virtuelle = آلة افتراضية
+
+Text:
+Une machine virtuelle simule un ordinateur complet dans le cloud.",الآلة الافتراضية تمثل حاسوبًا يعمل داخل بيئة سحابية.
+82,Operating Systems,fr,Le noyau est la partie centrale du système d'exploitation.,Le noyau est la partie centrale du système d'exploitation.,système d'exploitation=نظام تشغيل,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- système d'exploitation = نظام تشغيل
+
+Text:
+Le noyau est la partie centrale du système d'exploitation.",النواة هي الجزء الأساسي الذي يتحكم في عمل نظام التشغيل.
+125,Databases,ar,تُستخدم الدوال التجميعية لحساب القيم مثل المجموع أو المتوسط.,تُستخدم الدوال التجميعية لحساب القيم مثل المجموع أو المتوسط.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+تُستخدم الدوال التجميعية لحساب القيم مثل المجموع أو المتوسط.",الدوال التجميعية تحسب قيمًا مثل المجموع أو المتوسط.
+38,Software Engineering,ar,تساعد متطلبات النظام على تحديد ما يجب أن يفعله البرنامج قبل بدء التطوير.,تساعد متطلبات النظام على تحديد ما يجب أن يفعله البرنامج قبل بدء التطوير.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+تساعد متطلبات النظام على تحديد ما يجب أن يفعله البرنامج قبل بدء التطوير.",متطلبات النظام توضح ما الذي يجب أن ينجزه البرنامج قبل أن نبدأ تطويره.
+68,Software Engineering,ar,تساعد اختبارات التكامل على التأكد من أن أجزاء النظام تعمل معًا بشكل صحيح.,تساعد اختبارات التكامل على التأكد من أن أجزاء النظام تعمل معًا بشكل صحيح.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+تساعد اختبارات التكامل على التأكد من أن أجزاء النظام تعمل معًا بشكل صحيح.",اختبارات التكامل تتحقق من أن مكونات النظام تعمل معًا بشكل صحيح.
+76,Algorithms,fr,Un tri par insertion construit la liste triée en insérant chaque élément à sa position correcte.,Un tri par insertion construit la liste triée en insérant chaque élément à sa position correcte.,liste=قائمة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- liste = قائمة
+
+Text:
+Un tri par insertion construit la liste triée en insérant chaque élément à sa position correcte.",خوارزمية الإدراج ترتب العناصر بإضافة كل عنصر في مكانه الصحيح.
+28,Networking,fr,Le routage consiste à choisir le chemin que suivent les paquets de données pour atteindre leur destination.,Le routage consiste à choisir le chemin que suivent les paquets de données pour atteindre leur destination.,paquet=حزمة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- paquet = حزمة
+
+Text:
+Le routage consiste à choisir le chemin que suivent les paquets de données pour atteindre leur destination.",التوجيه هو اختيار المسار الذي تسلكه البيانات حتى تصل إلى وجهتها.
+135,Networking,ar,يساعد VPN على إنشاء اتصال آمن عبر الإنترنت.,يساعد VPN على إنشاء اتصال آمن à travers Internet.,internet=الإنترنت,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- internet = الإنترنت
+
+Text:
+يساعد VPN على إنشاء اتصال آمن à travers Internet.",VPN يسمح بإنشاء اتصال آمن عبر الشبكة.
+122,Databases,fr,La clause WHERE permet de filtrer les résultats d'une requête.,La clause WHERE permet de filtrer les résultats d'une requête.,requête=استعلام,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- requête = استعلام
+
+Text:
+La clause WHERE permet de filtrer les résultats d'une requête.",جملة WHERE تسمح بتصفية النتائج حسب شرط معين.
+121,Databases,fr,Une requête SELECT permet d'extraire des données spécifiques d'une table.,Une requête SELECT permet d'extraire des données spécifiques d'une table.,table=جدول | requête=استعلام,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- table = جدول
+- requête = استعلام
+
+Text:
+Une requête SELECT permet d'extraire des données spécifiques d'une table.",استعلام SELECT يُستخدم لاستخراج بيانات محددة من جدول.
+103,Networking,ar,يُستخدم NAT لترجمة عناوين الشبكة بين الشبكات المختلفة.,يُستخدم NAT لترجمة عناوين réseau بين الشبكات المختلفة.,réseau=شبكة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- réseau = شبكة
+
+Text:
+يُستخدم NAT لترجمة عناوين réseau بين الشبكات المختلفة.",NAT يسمح بتحويل عناوين IP بين الشبكات.
+75,Cloud Computing Fundamentals,ar,تُستخدم الخدمات السحابية لتشغيل التطبيقات دون الحاجة إلى إدارة الخوادم.,تُستخدم الخدمات السحابية لتشغيل التطبيقات دون الحاجة إلى إدارة الخوادم.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+تُستخدم الخدمات السحابية لتشغيل التطبيقات دون الحاجة إلى إدارة الخوادم.",الخدمات السحابية تسمح بتشغيل البرامج دون إدارة الخوادم مباشرة.
+4,Programming Fundamentals,fr,Une fonction est un ensemble d'instructions regroupées pour accomplir une tâche spécifique et pouvant être réutilisées.,Une fonction est un ensemble d'instructions regroupées pour accomplir une tâche spécifique et pouvant être réutilisées.,fonction=دالة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- fonction = دالة
+
+Text:
+Une fonction est un ensemble d'instructions regroupées pour accomplir une tâche spécifique et pouvant être réutilisées.",الدالة هي مجموعة أوامر تقوم بمهمة محددة، ويمكن استعمالها أكثر من مرة.
+61,Networking,fr,Un réseau local relie plusieurs ordinateurs dans une zone géographique limitée.,Un réseau local relie plusieurs ordinateurs dans une zone géographique limitée.,réseau=شبكة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- réseau = شبكة
+
+Text:
+Un réseau local relie plusieurs ordinateurs dans une zone géographique limitée.",الشبكة المحلية تربط عدة حواسيب داخل مكان صغير مثل شركة أو مدرسة.
+29,Networking,ar,يُعد بروتوكول TCP مسؤولًا عن نقل البيانات بشكل موثوق بين الأجهزة المتصلة بالشبكة.,يُعد بروتوكول TCP مسؤولًا عن نقل données بشكل موثوق بين الأجهزة المتصلة بالشبكة.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+يُعد بروتوكول TCP مسؤولًا عن نقل données بشكل موثوق بين الأجهزة المتصلة بالشبكة.",بروتوكول TCP يساعد على إرسال البيانات بشكل صحيح وموثوق بين الأجهزة.
+74,Cloud Computing Fundamentals,fr,Les conteneurs permettent d'exécuter les applications dans des environnements isolés.,Les conteneurs permettent d'exécuter les applications dans des environnements isolés.,conteneur=حاوية,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- conteneur = حاوية
+
+Text:
+Les conteneurs permettent d'exécuter les applications dans des environnements isolés.",الحاويات تسمح بتشغيل التطبيقات داخل بيئات منفصلة.
+80,Algorithms,ar,يُستخدم الطابور لمعالجة العناصر حسب ترتيب وصولها.,يُستخدم الطابور لمعالجة العناصر حسب ترتيب وصولها.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+يُستخدم الطابور لمعالجة العناصر حسب ترتيب وصولها.",الطابور يعالج العناصر حسب ترتيب دخولها.
+88,Cybersecurity Basics,ar,تساعد التحديثات الأمنية على إصلاح الثغرات في البرامج.,تساعد التحديثات الأمنية على إصلاح الثغرات في البرامج.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+تساعد التحديثات الأمنية على إصلاح الثغرات في البرامج.",التحديثات الأمنية تصلح الثغرات وتحسن أمان النظام.
+114,Cloud Computing Fundamentals,fr,Les microservices divisent une application en petits services indépendants.,Les microservices divisent une application en petits services indépendants.,microservice=خدمة مصغرة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- microservice = خدمة مصغرة
+
+Text:
+Les microservices divisent une application en petits services indépendants.",الميكروسيرفس تقسم التطبيق إلى خدمات صغيرة مستقلة.
+20,Databases,ar,يسمح الربط بين الجداول باسترجاع بيانات مرتبطة من أكثر من جدول داخل نفس الاستعلام.,يسمح الربط بين الجداول باسترجاع بيانات مرتبطة من أكثر من جدول داخل نفس الاستعلام.,table=جدول,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- table = جدول
+
+Text:
+يسمح الربط بين الجداول باسترجاع بيانات مرتبطة من أكثر من جدول داخل نفس الاستعلام.",الربط بين الجداول يسمح بجلب معلومات من عدة جداول مرتبطة في طلب واحد.
+15,Algorithms,ar,يُقصد بتعقيد الزمن عدد العمليات التقريبية التي تنفذها الخوارزمية بالنسبة إلى حجم المدخلات.,يُقصد بتعقيد الزمن عدد العمليات التقريبية التي تنفذها الخوارزمية بالنسبة إلى حجم المدخلات.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+يُقصد بتعقيد الزمن عدد العمليات التقريبية التي تنفذها الخوارزمية بالنسبة إلى حجم المدخلات.",تعقيد الزمن يعبّر عن مقدار العمل الذي تقوم به الخوارزمية عندما يكبر حجم البيانات.
+56,Web Development,fr,Un navigateur web est un logiciel permettant d'accéder et d'afficher les pages web.,Un navigateur web est un logiciel permettant d'accéder et d'afficher les pages web.,internet=الإنترنت | page web=صفحة ويب | navigateur=متصفح,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- internet = الإنترنت
+- page web = صفحة ويب
+- navigateur = متصفح
+
+Text:
+Un navigateur web est un logiciel permettant d'accéder et d'afficher les pages web.",متصفح الويب هو برنامج يسمح للمستخدم بفتح صفحات الإنترنت وعرضها.
+128,Web Development,ar,تساعد المكتبات البرمجية على تسهيل كتابة الكود.,تساعد المكتبات البرمجية على تسهيل كتابة الكود.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+تساعد المكتبات البرمجية على تسهيل كتابة الكود.",المكتبة البرمجية توفر وظائف جاهزة تساعد المطور.
+115,Cloud Computing Fundamentals,ar,تستخدم الحاويات لتشغيل التطبيقات بشكل متسق في أي بيئة.,تستخدم الحاويات لتشغيل التطبيقات بشكل متسق في أي بيئة.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+تستخدم الحاويات لتشغيل التطبيقات بشكل متسق في أي بيئة.",الحاويات تسمح بتشغيل التطبيق بنفس الطريقة في أي نظام.
+137,Software Engineering,fr,Un sprint est une période courte durant laquelle l'équipe développe des fonctionnalités.,Un sprint est une période courte durant laquelle l'équipe développe des fonctionnalités.,fonction=دالة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- fonction = دالة
+
+Text:
+Un sprint est une période courte durant laquelle l'équipe développe des fonctionnalités.",الـ sprint فترة قصيرة يعمل فيها الفريق على تطوير ميزات جديدة.
+66,Software Engineering,fr,La documentation aide les développeurs à comprendre et maintenir le code.,La documentation aide les développeurs à comprendre et maintenir le code.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+La documentation aide les développeurs à comprendre et maintenir le code.",التوثيق يشرح كيفية عمل البرنامج ويساعد المطورين على فهم الكود.
+12,Algorithms,fr,La recherche linéaire consiste à parcourir les éléments un par un jusqu'à trouver la valeur recherchée.,La recherche linéaire consiste à parcourir les éléments un par un jusqu'à trouver la valeur recherchée.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+La recherche linéaire consiste à parcourir les éléments un par un jusqu'à trouver la valeur recherchée.",البحث الخطي يعني فحص العناصر واحدًا واحدًا حتى نجد القيمة المطلوبة.
+99,Web Development,fr,Un endpoint API est une adresse permettant d'accéder à une fonctionnalité d'un service.,Un endpoint API est une adresse permettant d'accéder à une fonctionnalité d'un service.,fonction=دالة | API=واجهة برمجة التطبيقات | endpoint=نقطة نهاية,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- fonction = دالة
+- API = واجهة برمجة التطبيقات
+- endpoint = نقطة نهاية
+
+Text:
+Un endpoint API est une adresse permettant d'accéder à une fonctionnalité d'un service.",نقطة النهاية في API هي عنوان يسمح بالوصول إلى وظيفة معينة في الخدمة.
+16,Databases,fr,Une base de données relationnelle organise les données sous forme de tables liées entre elles par des relations.,Une base de données relationnelle organise les données sous forme de tables liées entre elles par des relations.,base de données=قاعدة بيانات | table=جدول,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- base de données = قاعدة بيانات
+- table = جدول
+
+Text:
+Une base de données relationnelle organise les données sous forme de tables liées entre elles par des relations.",قاعدة البيانات العلائقية تحفظ المعلومات في جداول مرتبطة فيما بينها.
+96,Web Development,fr,Le DOM représente la structure d'une page HTML sous forme d'arbre.,Le DOM représente la structure d'une page HTML sous forme d'arbre.,arbre=شجرة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- arbre = شجرة
+
+Text:
+Le DOM représente la structure d'une page HTML sous forme d'arbre.",DOM يمثل هيكل صفحة HTML على شكل شجرة من العناصر.
+69,Software Engineering,fr,Le refactoring consiste à améliorer la structure du code sans modifier son comportement.,Le refactoring consiste à améliorer la structure du code sans modifier son comportement.,,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Text:
+Le refactoring consiste à améliorer la structure du code sans modifier son comportement.",إعادة هيكلة الكود تعني تحسين تنظيمه دون تغيير طريقة عمله.
+106,Software Engineering,fr,Le contrôle de version permet de suivre les modifications du code.,Le contrôle de version permet de suivre les modifications du code.,version control=التحكم في الإصدارات,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- version control = التحكم في الإصدارات
+
+Text:
+Le contrôle de version permet de suivre les modifications du code.",التحكم في الإصدارات يسمح بتتبع التغييرات التي تحدث في الكود.
+101,Networking,fr,Un switch connecte plusieurs appareils dans un réseau local.,Un switch connecte plusieurs appareils dans un réseau local.,réseau=شبكة,"Rewrite the following IT explanation in simple, clear, correct Arabic for Moroccan learners. Preserve the meaning and avoid mixing languages.
+
+Use the following Arabic technical terminology when relevant:
+- réseau = شبكة
+
+Text:
+Un switch connecte plusieurs appareils dans un réseau local.",المبدل يربط عدة أجهزة داخل الشبكة المحلية.
